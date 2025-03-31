@@ -6,7 +6,7 @@ Esta é minha solução para o desafio [QR code component](https://github.com/An
 
 ### Screenshot
 
-![](/assets/images/screenshot.jpg)
+![](/images/screenshot.jpg)
 
 ### Links
 
